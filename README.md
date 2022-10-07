@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ogmachii
 - 👀 I’m interested in how computers work.
 - 🌱 I’m currently learning Frontend development.
-- 💞️ I’m looking to collaborate on anything that will further my understanding on what Frontend development means in a commercial setting.
+- 💞️ I’m looking to collaborate on anything that will further my understanding on how computers work, Frontend and Backend.
 - 📫 How to reach me shumakerchase@gmail.com
 
 <!---
